@@ -23,7 +23,7 @@ const Discover = ({ navigation }) => {
                 </View>
             </View >
             <View style={{ margin: 9 }}>
-                <Text style={{ marginTop: 18, fontSize: height > 800 ? 40 : 35, marginLeft: width * 0.020, color: 'white', fontWeight: 700 }}>
+                <Text style={{ marginTop: 18, fontSize: height > 800 ? 40 : 24, marginLeft: width * 0.020, color: 'white', fontWeight: 700 }}>
                     Discover the timeless wisdom of <Text style={{ color: '#FFD720' }}>
                         the Vedas
                     </Text>
