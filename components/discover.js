@@ -63,7 +63,7 @@ const Discover = ({ navigation }) => {
         <Text
           style={{
             marginTop: 18,
-            fontSize: height > 800 ? 40 : 24,
+            fontSize: height > 800 ? 40 : 35,
             marginLeft: width * 0.02,
             color: "white",
             fontWeight: 700,
